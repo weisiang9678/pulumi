@@ -19,7 +19,7 @@ classifiers = [
     "Typing :: Typed",
 ]
 dependencies = [
-    'protobuf~=4.21',
+    'protobuf~=5.0',
     'grpcio~=1.66.2',
     'dill~=0.3',
     'semver~=3.0',
